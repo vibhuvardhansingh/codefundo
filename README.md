@@ -2,4 +2,5 @@
 
 ## subheadings
 Azure Blockchain. *github*.
-![microsoft] (file:///Users/prasenjitdutta/Documents/Microsoft-Logo-2012.jpg)
+![Microsoft-Logo-2012](https://user-images.githubusercontent.com/48177487/61967915-4372f880-aff4-11e9-872e-364a23889b31.jpg)
+
