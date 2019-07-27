@@ -1,13 +1,11 @@
-# headings
+# votingsystem
+![](https://photos.app.goo.gl/1Jeuddx3ouib1QzE6)
 
-## subheadings
-Azure Blockchain. *github*.
-![Microsoft](https://user-images.githubusercontent.com/48177487/61967915-4372f880-aff4-11e9-872e-364a23889b31.jpg)
+## present voting system
+The right to vote is an inalienable part of a citizen’s right in a democracy, subject to certain conditions laid down by the state. 
+As per the Election commission of India, citizens are eligible to become voters under the following conditions: 
+Every citizen who is 18 years old on the qualifying date 
+Enrollment only at place of residence. 
 
-## Coding
-1. Earthquake- (location)
-```javascript
-   {Latitude:"97.568722";
-    Longitude:"73.791065";
-   }
-```
+## current issues
+Today due to the migration of people to cities because of healthy life style majority of voters are missing.this leads to uneven population in diferent constituencies.
