@@ -1,5 +1,5 @@
 # votingsystem
-![](https://photos.app.goo.gl/1Jeuddx3ouib1QzE6)
+![vote](https://user-images.githubusercontent.com/48177487/61993848-9b127200-b08f-11e9-9b65-13af48d5a536.jpg)
 
 ## present voting system
 The right to vote is an inalienable part of a citizen’s right in a democracy, subject to certain conditions laid down by the state. 
