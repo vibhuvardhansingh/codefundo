@@ -25,7 +25,7 @@ The right to vote is an inalienable part of a citizen’s right in a democracy, 
 ## Technology Used  
 - Azure Blockchain Service on Remix.
 
-Smart Contracts will verify transaction and will keep the voter anonomous.
+Smart Contracts will verify transaction and will keep the voter anonymous.
 
 - Flutter Framework for Cross Platform App.
 
