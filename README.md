@@ -9,7 +9,8 @@ The right to vote is an inalienable part of a citizen’s right in a democracy, 
 2. Differnt political parties have questioned about the hacking done in EVMs. This can be great threat to democracy.
 
 ## Solution of Current issues
-![vote](https://firebasestorage.googleapis.com/v0/b/code-fun-do-26d59.appspot.com/o/cfd_screenshot.jpg?alt=media&token=d1ba6ebb-c795-4988-a93d-eed6057e7e8a)
+<img src="https://firebasestorage.googleapis.com/v0/b/code-fun-do-26d59.appspot.com/o/cfd_screenshot.jpg?alt=media&token=d1ba6ebb-c795-4988-a93d-eed6057e7e8a" align="right"
+     title="Rightr to Vote" width="400" height="200">
 
 ## Technology Used  
 - Azure Blockchain Service on Remix
