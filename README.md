@@ -1,4 +1,4 @@
-# Online Voting 
+# Online Voting in India 
 <img src="https://user-images.githubusercontent.com/48177487/61993848-9b127200-b08f-11e9-9b65-13af48d5a536.jpg" align="right"
      title="Right to Vote" width="200" height="178">
 ## Present voting system
@@ -10,9 +10,6 @@ The right to vote is an inalienable part of a citizen’s right in a democracy, 
 3. Many voters randomly give their votes. There is no information given about the candidates past history or his present agenda.
 ## Our solution to Current issues
 
-![blockchain-voting-system](https://user-images.githubusercontent.com/48177487/62005761-a29c4e80-b155-11e9-8742-5a1afe213b16.png)
-
-
 1. Blockchain technology has the ability to introduce a system that is seemingly impossible to hack .Once a voter is eligible to vote, they would receive a key that would allow them to vote exactly once. We will also use elliptical curve cryptography. Plus, the whole voting process would be decentralized, which means that there is no central agency which must be trusted to conduct the elections fairly and securely. Anybody can participate and become a node in the system as long as they meet requirements which are confirmed during registration  which will collectively ensure that the system is available throughout the duration of the election, and that the votes are counted correctly. In this way every vote will be safe.
 
 
@@ -21,7 +18,7 @@ The right to vote is an inalienable part of a citizen’s right in a democracy, 
 3. In our app ,all the information related to candidate will be present such as his past records,current agenda and also if there is any criminal case against him . This will give a clear idea to a voter to whom to vote.
 
 <img src="https://firebasestorage.googleapis.com/v0/b/code-fun-do-26d59.appspot.com/o/cfd_screenshot.jpg?alt=media&token=d1ba6ebb-c795-4988-a93d-eed6057e7e8a" align="center"
-     title="Right to Vote" width="800" height="400">
+     title="Right to Vote" width="400" height="200">
 
 ## Technology Used  
 - Azure Blockchain Service on Remix.
