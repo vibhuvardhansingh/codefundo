@@ -6,7 +6,7 @@ The right to vote is an inalienable part of a citizen’s right in a democracy, 
 
 ## Current issues
 1. Different political parties have questioned about the hacking done in EVMs. This can be great threat to democracy.
-2. A person may be living in a location other than the constituency where she/he is registered as a voter.So the person cannot  vote for his constituency which lead to partial voting win, in which everyone is not involved. 
+2. A person may be living in a location other than the constituency where he/she is registered as a voter.So the person cannot  vote for his constituency which lead to partial voting win, in which everyone is not involved. 
 3. Many voters randomly give their votes. There is no information given about the candidates past history or his present agenda.
 ## Our solution to Current issues
 
