@@ -2,7 +2,7 @@
 ## Present voting system
 The right to vote is an inalienable part of a citizen’s right in a democracy, subject to certain conditions laid down by the state. As per the Election commission of India, citizens are eligible to become voters only if he/she is enrolled at place of residence. At present voting is done in EVMs.
 
-![vote](https://user-images.githubusercontent.com/48177487/61993848-9b127200-b08f-11e9-9b65-13af48d5a536.jpg)
+![vote](https://yt3.ggpht.com/a/AGF-l7-1C4C5pzmTqSxwylxHY8sIWzJCw63A3ksMkA=s900-mo-c-c0xffffffff-rj-k-no)
 
 ## Current issues
 1. Today due to the migration of people to cities because of healthy life style majority of voters are missing. This leads to uneven population in diferent constituencies.
