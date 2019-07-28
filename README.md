@@ -12,8 +12,10 @@ The right to vote is an inalienable part of a citizen’s right in a democracy, 
 ![vote](https://firebasestorage.googleapis.com/v0/b/code-fun-do-26d59.appspot.com/o/cfd_screenshot.jpg?alt=media&token=d1ba6ebb-c795-4988-a93d-eed6057e7e8a)
 
 ## Technology Used  
+- Azure Blockchain Service on Remix
 - Flutter Framework for Cross Platform App 
 - Firebase Database, Storage and ML Kit
-- Cloud FUnctions on Node.JS
+- Cloud Functions on Node.JS
+- Machine Learning and Face Detection Modals
 
 
