@@ -11,6 +11,7 @@ The right to vote is an inalienable part of a citizen’s right in a democracy, 
 
 ## Solution of Current issues
 1.Here we will use Azure Blockchain,which will make it impossible to hack EVMs and this will develop the belief in EVMs voting among the people and voting will happen securely. 
+
 2. For this problem . We will use ML in which a person will open the app in the room and his mobile camera will identify that no other person and room cameras is present in his room then aperson will scan his Adhar card or Voter Id card and his face . After this ,a a person will vote and this vote will not be saved and can not be taken screenshot of it..This will help a person sitting different constituency to vote securely.
 <img src="https://firebasestorage.googleapis.com/v0/b/code-fun-do-26d59.appspot.com/o/cfd_screenshot.jpg?alt=media&token=d1ba6ebb-c795-4988-a93d-eed6057e7e8a" align="right"
      title="Rightr to Vote" width="400" height="200">
