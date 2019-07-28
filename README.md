@@ -5,7 +5,7 @@
 The right to vote is an inalienable part of a citizen’s right in a democracy, subject to certain conditions laid down by the state. As per the Election commission of India, citizens are eligible to become voters only if he/she is enrolled at place of residence. At present voting is done in EVMs.
 
 ## Current issues
-1. Differnt political parties have questioned about the hacking done in EVMs. This can be great threat to democracy.
+1. Different political parties have questioned about the hacking done in EVMs. This can be great threat to democracy.
 2. According to the source Wikipedia ,About 900 million people were eligible to vote and turnout was over 67 per cent.Their are many          reason that rest of them  have not vote but one reason is...
    A person may be living in a location other than the constituency where s/he is registered as a voter.So a person is not able to vote in    his constituencies which lead to partial voting win, in which everyone is not involve. 
 
