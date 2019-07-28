@@ -5,27 +5,16 @@
 The right to vote is an inalienable part of a citizen’s right in a democracy, subject to certain conditions laid down by the state. As per the Election commission of India, citizens are eligible to become voters only if he/she is enrolled at place of residence. At present voting is done in EVMs.
 
 ## Current issues
-1. Today due to the migration of people to cities because of healthy life style majority of voters are missing. This leads to uneven          population in diferent constituencies.
-
+1. Differnt political parties have questioned about the hacking done in EVMs. This can be great threat to democracy.
 2. According to the source Wikipedia ,About 900 million people were eligible to vote and turnout was over 67 per cent.Their are many          reason that rest of them  have not vote but one reason is...
-   
    A person may be living in a location other than the constituency where s/he is registered as a voter.So a person is not able to vote in    his constituencies which lead to partial voting win, in which everyone is not involve. 
 
-3. Differnt political parties have questioned about the hacking done in EVMs. This can be great threat to democracy.
-
 ## Solution of Current issues
-1. Blockchain technology has the ability to introduce a system that is seemingly impossible to hack .Once a voter is eligible to vote, they would receive a key that would allow them to vote exactly once. Plus, the whole voting process would be decentralized, which means that there is no central agency which must be trusted to conduct the elections fairly and securely. Anybody can participate and become a node in the system — as long as they meet requirements which are confirmed during registration — which will collectively ensure that the system is available throughout the duration of the election, and that the votes are counted correctly.
-2. We are going to build app which will enable you to vote during the election. We are going to verify the person using image processing. Morever we will also scan any one of voter card or adhaar card.
-
-## How will blockchain ensure votes are not hacked
-![blockchain-voting-system](https://user-images.githubusercontent.com/48177487/62004783-1551fd80-b147-11e9-90b7-fcc7b777de0d.png)
-1. Suppose a person wants to give vote to a party X.
-2. The vote will be represented online as a block.
-3. The block will be verified in the network.
-4. The block then can be added to the chain.
-5. Thus the vote has safely gone to the party X.
+1.
+2. For this problem . We will use ML in which a person will open the app in the room and his mobile camera will identify that no other person and room cameras is present in his room then aperson will scan his Adhar card or Voter Id card and his face . After this ,a a person will vote and this vote will not be saved and can not be taken screenshot of it..This will help a person sitting different constituency to vote securely.
 <img src="https://firebasestorage.googleapis.com/v0/b/code-fun-do-26d59.appspot.com/o/cfd_screenshot.jpg?alt=media&token=d1ba6ebb-c795-4988-a93d-eed6057e7e8a" align="right"
      title="Rightr to Vote" width="400" height="200">
+
 ## Technology Used  
 - Azure Blockchain Service on Remix
 - Flutter Framework for Cross Platform App 
