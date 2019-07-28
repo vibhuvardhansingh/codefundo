@@ -6,8 +6,7 @@ The right to vote is an inalienable part of a citizen’s right in a democracy, 
 
 ## Current issues
 1. Different political parties have questioned about the hacking done in EVMs. This can be great threat to democracy.
-2. According to the source Wikipedia ,About 900 million people were eligible to vote and turnout was over 67 per cent.Their are many          reason that rest of them  have not vote but one reason is...
-   A person may be living in a location other than the constituency where s/he is registered as a voter.So a person is not able to vote in    his constituencies which lead to partial voting win, in which everyone is not involve. 
+2. A person may be living in a location other than the constituency where she/he is registered as a voter.So the person cannot  vote for his constituency which lead to partial voting win, in which everyone is not involved. 
 3. Many voters randomly give their votes. There is no information given about the candidates past history or his present agenda.
 ## Our solution to Current issues
 1. Blockchain technology has the ability to introduce a system that is seemingly impossible to hack .Once a voter is eligible to vote, they would receive a key that would allow them to vote exactly once. Plus, the whole voting process would be decentralized, which means that there is no central agency which must be trusted to conduct the elections fairly and securely. Anybody can participate and become a node in the system as long as they meet requirements which are confirmed during registration  which will collectively ensure that the system is available throughout the duration of the election, and that the votes are counted correctly. In this way every vote will be safe.
