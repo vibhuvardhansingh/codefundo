@@ -14,7 +14,8 @@ The right to vote is an inalienable part of a citizen’s right in a democracy, 
 3. Differnt political parties have questioned about the hacking done in EVMs. This can be great threat to democracy.
 
 ## Solution of Current issues
-1. 
+1. Blockchain technology has the ability to introduce a system that is seemingly impossible to hack .Once a voter is eligible to vote, they would receive a key that would allow them to vote exactly once. Plus, the whole voting process would be decentralized, which means that there is no central agency which must be trusted to conduct the elections fairly and securely. Anybody can participate and become a node in the system — as long as they meet requirements which are confirmed during registration — which will collectively ensure that the system is available throughout the duration of the election, and that the votes are counted correctly.
+2. We are going to build app which will enable you to vote during the election. We are going to verify the person using image processing. Morever we will also scan any one of voter card or adhaar card.
 <img src="https://firebasestorage.googleapis.com/v0/b/code-fun-do-26d59.appspot.com/o/cfd_screenshot.jpg?alt=media&token=d1ba6ebb-c795-4988-a93d-eed6057e7e8a" align="right"
      title="Rightr to Vote" width="400" height="200">
 
