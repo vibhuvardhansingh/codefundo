@@ -22,14 +22,19 @@ The right to vote is an inalienable part of a citizen’s right in a democracy, 
 ## Technology Used  
 - Azure Blockchain Service on Remix.
 
-Smart Contracts will verify transaction and will kepp the voter anonomous.
+Smart Contracts will verify transaction and will keep the voter anonomous.
 
 - Flutter Framework for Cross Platform App.
 
 App will consist of a Ballot Paper List and Contestants Profile
 
 - Firebase Database, Storage and ML Kit
+
+Firebase will store the information of contestants in Database and Storage.
 - Cloud Functions on Node.JS
+
+Cloud Functions will Integrate Firebase Database and Microsoft Azure Blocking.
+
 - Machine Learning and Face Detection Modals
 
 Scanning of Voter ID and Face Detection will reduces chances of fraud.
