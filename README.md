@@ -22,8 +22,8 @@ The right to vote is an inalienable part of a citizen’s right in a democracy, 
 
 3. In our app ,all the information related to candidate will be present such as his past records,current agenda and also if there is any criminal case against him . This will give a clear idea to a voter to whom to vote.
 
-
-
+<img src="https://firebasestorage.googleapis.com/v0/b/code-fun-do-26d59.appspot.com/o/cfd_screenshot.jpg?alt=media&token=d1ba6ebb-c795-4988-a93d-eed6057e7e8a" align="center"
+     title="Right to Vote" width="400" height="200">
 
 ## Technology Used  
 - Azure Blockchain Service on Remix.
