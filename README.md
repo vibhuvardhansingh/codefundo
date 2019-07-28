@@ -7,3 +7,12 @@ The right to vote is an inalienable part of a citizen’s right in a democracy, 
 ## Current issues
 1. Today due to the migration of people to cities because of healthy life style majority of voters are missing. This leads to uneven population in diferent constituencies.
 2. Differnt political parties have questioned about the hacking done in EVMs. This can be great threat to democracy.
+
+##Solution of Current issues
+
+
+
+##Technology Used  
+
+
+
