@@ -19,11 +19,11 @@ The right to vote is an inalienable part of a citizen’s right in a democracy, 
 
 ## How will blockchain ensure votes are not hacked
 ![blockchain-voting-system](https://user-images.githubusercontent.com/48177487/62004783-1551fd80-b147-11e9-90b7-fcc7b777de0d.png)
->. Suppose a person wants to give vote to a party X.
->. The vote will be represented online as a block.
->. The block will be verified in the network.
->. The block then can be added to the chain.
->. Thus the vote has safely gone to the party X.
+1. Suppose a person wants to give vote to a party X.
+2. The vote will be represented online as a block.
+3. The block will be verified in the network.
+4. The block then can be added to the chain.
+5. Thus the vote has safely gone to the party X.
 <img src="https://firebasestorage.googleapis.com/v0/b/code-fun-do-26d59.appspot.com/o/cfd_screenshot.jpg?alt=media&token=d1ba6ebb-c795-4988-a93d-eed6057e7e8a" align="right"
      title="Rightr to Vote" width="400" height="200">
 ## Technology Used  
