@@ -1,4 +1,4 @@
-# Votingsystem🗳️
+# Voting system🗳️
 ![vote](https://user-images.githubusercontent.com/48177487/61993848-9b127200-b08f-11e9-9b65-13af48d5a536.jpg)
 
 ## Present voting system
