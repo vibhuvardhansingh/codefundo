@@ -16,17 +16,23 @@ The right to vote is an inalienable part of a citizen’s right in a democracy, 
 3. In our app ,all the information related to candidate will be present such as his past records,current agenda and also if there is any criminal case against him . This will give a clear idea to a voter to whom to vote.
 
 
-<img src="https://firebasestorage.googleapis.com/v0/b/code-fun-do-26d59.appspot.com/o/cfd_screenshot.jpg?alt=media&token=d1ba6ebb-c795-4988-a93d-eed6057e7e8a" align="right"
-     title="Rightr to Vote" width="400" height="200">
+<img src="https://firebasestorage.googleapis.com/v0/b/code-fun-do-26d59.appspot.com/o/cfd_screenshot.jpg?alt=media&token=d1ba6ebb-c795-4988-a93d-eed6057e7e8a" align="center"
+     title="Right to Vote" width="400" height="200">
 
 ## Technology Used  
 - Azure Blockchain Service on Remix.
 
 Smart Contracts will verify transaction and will kepp the voter anonomous.
 
-- Flutter Framework for Cross Platform App 
+- Flutter Framework for Cross Platform App.
+
+App will consist of a Ballot Paper List and Contestants Profile
+
 - Firebase Database, Storage and ML Kit
 - Cloud Functions on Node.JS
 - Machine Learning and Face Detection Modals
+
+Scanning of Voter ID and Face Detection will reduces chances of fraud.
+
 
 
