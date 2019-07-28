@@ -1,4 +1,4 @@
-# Voting system🗳️
+# Online Voting 
 <img src="https://user-images.githubusercontent.com/48177487/61993848-9b127200-b08f-11e9-9b65-13af48d5a536.jpg" align="right"
      title="Right to Vote" width="200" height="178">
 ## Present voting system
